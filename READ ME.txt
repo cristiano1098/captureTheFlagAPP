@@ -1,0 +1,7 @@
+De modo a garantir que o final do jogo é atingido com rapidez é sugiro
+carregar o mapa guardado no ficheiro "map.json", escolhendo apenas 1 bot
+para cada jogador, tendo o bot o algoritmo de "Caminho mais curto" e o 
+outro o algoritmo de "Vizinho Aleatorio".
+
+Esta não é a única forma de atingir o fim do jogo, apenas se tratando de
+um exemplo!
